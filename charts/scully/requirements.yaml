@@ -1,4 +1,4 @@
 dependencies:
-- name: jx-workshop/mulder
-  repository: http://chartmuseum.jx.10.67.255.116.nip.io/
+- name: mulder
+  repository: http://chartmuseum.jx.34.73.168.145.nip.io/
   version: 0.0.3
